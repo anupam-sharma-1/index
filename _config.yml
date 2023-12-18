@@ -39,6 +39,7 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "https://anupam-sharma-1.github.io/index/"
+resumeurl: https://drive.google.com/file/d/1orOgKOJk2wcmpzP0_UFf8R90iFMpL4bS/view?usp=sharing
 
 #
 # !! You don't need to change any of the configuration flags below !!
